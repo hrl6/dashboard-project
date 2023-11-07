@@ -8,3 +8,5 @@ This project is a web development practice endeavor focused on HTML, CSS, and po
 - Trending: Highlighting popular users and their trending projects.
 
 The primary objective is to build a functional yet minimal website to hone web development skills. While the focus is on HTML and CSS, some JavaScript may be incorporated for enhanced functionality. This project aims to provide hands-on experience in web development.
+
+View: https://hrulm.github.io/dashboard-project/
